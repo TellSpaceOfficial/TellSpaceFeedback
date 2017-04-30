@@ -3,8 +3,8 @@
 <br>
 # Please take our feedback survey
 ## And tell us what you think about our projects, labs and website.
-### If you want to take the survey on a full size website click <a href="https://docs.google.com/forms/d/e/1FAIpQLSculaUDt0evsAZmzSyHNx7Ffr5qDOqf4w13YSlBdXZp-SrhRg/viewform?usp=sf_link"> HERE </a>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSculaUDt0evsAZmzSyHNx7Ffr5qDOqf4w13YSlBdXZp-SrhRg/viewform?embedded=true" width="750" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSculaUDt0evsAZmzSyHNx7Ffr5qDOqf4w13YSlBdXZp-SrhRg/viewform?usp=sf_link"> If you want to take the survey on a full website klick on this link </a>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSculaUDt0evsAZmzSyHNx7Ffr5qDOqf4w13YSlBdXZp-SrhRg/viewform?embedded=true" width="750" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 <br>
 <br>
 <br>
