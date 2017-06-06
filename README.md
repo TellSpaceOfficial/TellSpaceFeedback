@@ -30,7 +30,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Having problems with our projects or labs?
 ### Comment on github, instagram or e-mail us:
 <br>
-E-Mail: support@tellspace.ml
+E-Mail: info@tellspace.ml
 <br>
 <br>
 Instagram: @tellspace
