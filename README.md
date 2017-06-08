@@ -13,7 +13,7 @@
 
 # Contact & Support
 ## Contact
-E-Mail: contact@tellspace.tk
+E-Mail: contact@tellspacehq.ml
 <br>
 <br>
 Instagram: @tellspace
@@ -30,7 +30,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Having problems with our projects or labs?
 ### Comment on github, instagram or e-mail us:
 <br>
-E-Mail: info@tellspace.tk
+E-Mail: info@tellspacehq.ml
 <br>
 <br>
 Instagram: @tellspace
