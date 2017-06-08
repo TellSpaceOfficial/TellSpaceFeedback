@@ -13,13 +13,13 @@
 
 # Contact & Support
 ## Contact
-E-Mail: contact@tellspace.ml
+E-Mail: contact@tellspace.tk
 <br>
 <br>
 Instagram: @tellspace
 <br>
 <br>
-Hashtags: #tellspace, #onyxbash
+Hashtags: #tellspace, #onyxbash, #opusapp.
 <br>
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
@@ -30,7 +30,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Having problems with our projects or labs?
 ### Comment on github, instagram or e-mail us:
 <br>
-E-Mail: info@tellspace.ml
+E-Mail: info@tellspace.tk
 <br>
 <br>
 Instagram: @tellspace
@@ -43,6 +43,6 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br>
 <br>
 <br>
-### Tell Sapace 2017. <a href="https://github.com/TellSpaceOfficial"> Github </a>
+### Tell Space 2017. <a href="https://github.com/TellSpaceOfficial"> Github </a>
 <br>
 
